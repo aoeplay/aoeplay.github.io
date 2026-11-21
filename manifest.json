@@ -1,0 +1,17 @@
+{
+  "name": "Dawn of Realms / Sprint of Realms",
+  "short_name": "Sprint of Realms",
+  "description": "Browser RTS & corporate engagement strategy game for 1-4 players.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
